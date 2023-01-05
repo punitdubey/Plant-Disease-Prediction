@@ -6,7 +6,7 @@ from keras.models import load_model
 
 
 #Loading the Model
-#C:\Users\harsh\Downloads\Plant+Disease+Flask+App\Plant Disease Flask App\Plant_Disease
+#C:\Users\punit\Downloads\Plant+Disease+Flask+App\Plant Disease Flask App\Plant_Disease
 model = load_model('plant_disease.h5')
 
 #Name of Classes
